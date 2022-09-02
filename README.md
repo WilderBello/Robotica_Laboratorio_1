@@ -11,7 +11,7 @@ El laboratorio 1 de la materia Robótica tiene como objetivo enseñar el uso y f
 
 ## Solución
 
-Tomando como base la herramienta utilizada por los brazos industriales de soldadura, se realizó un modelado de una herramienta con una inclinación de 45 grados.
+Tomando como base la herramienta utilizada por los brazos industriales de soldadura, se realizó un modelado de una herramienta con una inclinación de 45 grados, de tal manera que al bajar el brazo robótico no se chocara con el tablero.
 ![](https://thumbs.dreamstime.com/z/brazo-industrial-del-robot-de-soldadura-con-el-modelo-la-antorcha-ot-electrodo-mig-aislado-en-fondo-blanco-trayectoria-recortes-o-142568943.jpg)
 
 [Brazo industrial del robot de soldadura](https://es.dreamstime.com/brazo-industrial-del-robot-de-soldadura-con-el-modelo-la-antorcha-ot-electrodo-mig-aislado-en-fondo-blanco-trayectoria-recortes-o-image142568943)
