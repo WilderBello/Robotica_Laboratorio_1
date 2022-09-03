@@ -39,7 +39,11 @@ La base que se utilizó para definir la trayectoria se puede ver a continuación
 
 Luego se ubicaron cada una de las trayectorias que debía seguir el robot y así se obtuvo el código en RAPID.
 
-- ##############################
+![](https://github.com/WilderBello/Robotica_Laboratorio_1/blob/main/Imagenes/Trayectorias.png)
+
+Por medio de la implementación de las trayectorias que sigue el manipulador ABB, se realiza la respectiva programación del codigo en RAPID, el cual, se implementa en el Robot real.
+
+- [Codigo RAPID de la secuencia]()
 
 
 Se realizó la simulación de la trayectoria que debía seguir el robot en Robot Studio.
