@@ -55,4 +55,5 @@ La implementación de la trayectoria dada se puede observar en el siguiente vide
 - [Video de la trayectoria en el plano 1](https://github.com/WilderBello/Robotica_Laboratorio_1/blob/main/Videos/Escritura%20en%20plano%201.mp4)
 
 ## DESCRIPCIÓN DE LA SOLUCIÓN PLANTEADA
+La implementación anteriormente documentada nos permite observar como es un acercamiento inicial con base en la programación de los robots industriales, ademas, de ser intuitiva y poco compleja una vez se toma experiencia. Se puede observar que la herramienta planteada es robusta y permite un correcto funcionamiento e implementación en el manipulador ABB 140, ademas de que permite una adecuada integración lo que permite bajos errores en el conjunto herramienta - manipulador.
 
