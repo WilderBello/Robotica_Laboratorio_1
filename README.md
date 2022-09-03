@@ -29,6 +29,10 @@ Posteriormente se realizó la impresión en 3D de la base que se ajusta al porta
 
 ![](https://i.postimg.cc/d359zwQh/Herramienta-completa.jpg)
 
+Para el manéjo de la herramienta, se procedio a realizar el modelo en RobotStudio para poder manejar el programa sin errores.
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_1/blob/main/Imagenes/Modelado_Herramienta.png)
+
 La base que se utilizó para definir la trayectoria se puede ver a continuación:
 
 ![](https://i.postimg.cc/B6GNFmwn/Base-escritura.jpg)
