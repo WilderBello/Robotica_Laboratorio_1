@@ -40,7 +40,7 @@ Luego se ubicaron cada una de las trayectorias que debía seguir el robot y así
 
 Se realizó la simulación de la trayectoria que debía seguir el robot en Robot Studio.
 
-- ###############################
+- [Video simulación de la trayectoria en el plano de 30°](https://github.com/WilderBello/Robotica_Laboratorio_1/blob/main/Videos/Escritura%20en%20plano%201.mp4)
 
 La implementación de la trayectoria dada se puede observar en el siguiente video:
 
