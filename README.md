@@ -43,7 +43,7 @@ Luego se ubicaron cada una de las trayectorias que debía seguir el robot y así
 
 Por medio de la implementación de las trayectorias que sigue el manipulador ABB, se realiza la respectiva programación del codigo en RAPID, el cual, se implementa en el Robot real.
 
-- [Codigo RAPID de la secuencia]()
+- [Codigo RAPID de la secuencia](https://github.com/WilderBello/Robotica_Laboratorio_1/tree/main/Codigo%20RAPID_Lab_01_Robotica)
 
 
 Se realizó la simulación de la trayectoria que debía seguir el robot en Robot Studio.
@@ -53,3 +53,6 @@ Se realizó la simulación de la trayectoria que debía seguir el robot en Robot
 La implementación de la trayectoria dada se puede observar en el siguiente video:
 
 - [Video de la trayectoria en el plano 1](https://github.com/WilderBello/Robotica_Laboratorio_1/blob/main/Videos/Escritura%20en%20plano%201.mp4)
+
+## DESCRIPCIÓN DE LA SOLUCIÓN PLANTEADA
+
